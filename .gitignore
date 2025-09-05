@@ -1,0 +1,11 @@
+# Quartus generated files
+db/
+incremental_db/
+simulation/
+output_files/
+*.sof
+*.pof
+*.smsg
+*.bak
+*.rpt
+*.log
